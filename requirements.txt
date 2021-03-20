@@ -32,7 +32,7 @@ html2text==2018.1.9
 httplib2==0.12.3
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jwcrypto==0.6.0
 MarkupSafe==1.1.1
 msgpack==0.6.1
