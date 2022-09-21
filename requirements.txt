@@ -47,7 +47,7 @@ pycparser==2.19
 python-crontab==2.3.7
 python-dateutil==2.8.0
 python-firebase==1.2
-python-jwt==3.2.4
+python-jwt==3.3.4
 pytz==2019.1
 PyYAML==5.1.1
 requests==2.22.0
